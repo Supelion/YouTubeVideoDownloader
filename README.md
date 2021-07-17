@@ -1,4 +1,4 @@
-**Method 1 (worse but easier to use)**
+**Method 1 (easier to use)**
 
  - `pip install pytube` in console 
  - run main.py
